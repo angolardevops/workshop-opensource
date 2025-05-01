@@ -10,3 +10,7 @@ Obrigado por considerar contribuir com este projeto!
    git checkout -b minha-melhoria
    ```
 
+3. Fazer clone do projecto
+   ```bash
+   gh repo clone angolardevops/workshop-opensource
+   ```
